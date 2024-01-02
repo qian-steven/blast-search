@@ -1,6 +1,6 @@
 ## Sequence Datastore and BLAST
 
-Testing API functionality with BLAST using BioSQL:
+Testing API functionality with BLAST using BioSQL.
 
 Functionality:
 1. Import sequences - Uploads sequence data to a MySQL database: FASTA, GenBank, Plain Text accepted
